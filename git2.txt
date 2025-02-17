@@ -3,3 +3,15 @@ HI i am Dhavanesh.V from CSE dept.
 <header>
 <h1>Hello</h1>
 </header>
+
+1. git config --global user.name "name"
+2. git config --global user.email "email"
+3. git clone linkOfGithubRepo
+
+4.git add .\anyfile
+5.git commit -m "feat:added"
+6.git push
+
+7.git pull to download
+
+
